@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ankit.yadav.cs24@gmail.com**
 
-- ⚡ Fun fact **1. About 90% of the World’s Currency Only Exists on Computers This means only about 10% of the global currency is actually cash. 3. The First Computer Mouse was Made of Wood**
+- ⚡ Fun fact **1. About 90% of the World’s Currency Only Exists on Computers This means only about 10% of the global currency is actually cash. 2. The First Computer Mouse was Made of Wood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
