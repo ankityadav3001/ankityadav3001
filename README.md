@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/coding-software-developer-work-augmented-reality-1234148077)]
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
